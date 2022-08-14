@@ -45,22 +45,30 @@ p {
 }
 
 .main-content {
-  display: relative;
+  display: fixed;
   margin-top: 70px;
   margin-bottom: 60px;
+  overflow: hidden;
 }
 
 .main-body {
-  display: flex;
+  display: fixed;
   flex-direction: row;
   align-items: stretch;
-  height: 100vh;
   background-color: white;
+  margin-top: 70px;
+  margin-bottom: 60px;
+  overflow: hidden;
 }
 
 .content {
   padding-bottom: 60px;
+  width: 1300px;
+}
 
+.row {
+  display: flex;
+  flex-direction: row;
 }
 
 h1 {
@@ -69,6 +77,7 @@ h1 {
   font-family: 'Josefin Sans', sans-serif;
   margin: 20px;
   margin-left: 30px;
+  align-content: flex-start;
 }
 
 h2 {
@@ -205,6 +214,7 @@ header {
   width: 100%;
   height: auto;
   margin: auto;
+  z-index: 3;
 }
 
 .arcana-links {
@@ -249,6 +259,37 @@ header {
   width: 250px;
   margin: 5px;
   margin-top: 0;
+}
+
+.card-view {
+  height: 25%;
+  width: 25%;
+}
+
+.card-text {
+  margin-bottom: 50px;
+}
+
+.card-text p{
+  font-size: 22px;
+}
+
+.reversed {
+  transform: scale(-1, -1);
+  z-index: 0;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+.upright-title {
+  margin-left: 10px;
+}
+
+.reversed-title {
+  text-align: end;
+  margin-right: 50px;
 }
 
 footer {

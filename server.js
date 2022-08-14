@@ -4,6 +4,7 @@ const fs = require('fs')
 
 const majorArcana = require('./major-arcana')
 const minorArcana = require('./minor-arcana')
+const practice = require('./practice')
 
 const server = express()
 
@@ -12,6 +13,7 @@ server.use(express.static('public'))
 server.use(express.urlencoded({ extended: false }))
 server.use('/major-arcana', majorArcana)
 server.use('/minor-arcana', minorArcana)
+server.use('/practice', practice)
 
 // Handlebars configuration
 server.engine('hbs', hbs.engine({ extname: 'hbs' }))

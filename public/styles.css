@@ -292,6 +292,24 @@ header {
   margin-right: 50px;
 }
 
+.prac-cards {
+  width: 300px;
+  height: auto;
+}
+
+.prac-reading {
+  height: auto;
+  width: auto;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.practice-three {
+  display: flex;
+  justify-content: space-around;
+}
+
 footer {
   position: fixed;
   display: flex;

@@ -1,0 +1,616 @@
+{
+  "minorArcana": {
+    "swords": [
+      {
+        "id": 1,
+        "name": "Ace of Swords",
+        "suit": "swords",
+        "value": "ace",
+        "image": "/images/swords/tarot-swords-01.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 2,
+        "name": "Two of Swords",
+        "suit": "swords",
+        "value": "two",
+        "image": "/images/swords/tarot-swords-02.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 3,
+        "name": "Three of Swords",
+        "suit": "swords",
+        "value": "three",
+        "image": "/images/swords/tarot-swords-03.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 4,
+        "name": "Four of Swords",
+        "suit": "swords",
+        "value": "four",
+        "image": "/images/swords/tarot-swords-04.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 5,
+        "name": "Five of Swords",
+        "suit": "swords",
+        "value": "five",
+        "image": "/images/swords/tarot-swords-05.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 6,
+        "name": "Six of Swords",
+        "suit": "swords",
+        "value": "six",
+        "image": "/images/swords/tarot-swords-06.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 7,
+        "name": "Seven of Swords",
+        "suit": "swords",
+        "value": "seven",
+        "image": "/images/swords/tarot-swords-07.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 8,
+        "name": "Eight of Swords",
+        "suit": "swords",
+        "value": "eight",
+        "image": "/images/swords/tarot-swords-08.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 9,
+        "name": "Nine of Swords",
+        "suit": "swords",
+        "value": "nine",
+        "image": "/images/swords/tarot-swords-09.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 10,
+        "name": "Ten of Swords",
+        "suit": "swords",
+        "value": "ten",
+        "image": "/images/swords/tarot-swords-10.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 11,
+        "name": "Page of Swords",
+        "suit": "swords",
+        "value": "page",
+        "image": "/images/swords/tarot-swords-11.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 12,
+        "name": "Knight of Swords",
+        "suit": "swords",
+        "value": "knight",
+        "image": "/images/swords/tarot-swords-12.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 13,
+        "name": "Queen of Swords",
+        "suit": "swords",
+        "value": "queen",
+        "image": "/images/swords/tarot-swords-13.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 14,
+        "name": "King of Swords",
+        "suit": "swords",
+        "value": "king",
+        "image": "/images/swords/tarot-swords-14.jpg",
+        "type": "Minor"
+      }
+    ],
+    "cups": [
+      {
+        "id": 1,
+        "name": "Ace of Cups",
+        "suit": "cups",
+        "value": "ace",
+        "image": "/images/cups/tarot-cups-01.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 2,
+        "name": "Two of Cups",
+        "suit": "cups",
+        "value": "two",
+        "image": "/images/cups/tarot-cups-02.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 3,
+        "name": "Three of Cups",
+        "suit": "cups",
+        "value": "three",
+        "image": "/images/cups/tarot-cups-03.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 4,
+        "name": "Four of Cups",
+        "suit": "cups",
+        "value": "four",
+        "image": "/images/cups/tarot-cups-04.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 5,
+        "name": "Five of Cups",
+        "suit": "cups",
+        "value": "five",
+        "image": "/images/cups/tarot-cups-05.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 6,
+        "name": "Six of Cups",
+        "suit": "cups",
+        "value": "six",
+        "image": "/images/cups/tarot-cups-06.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 7,
+        "name": "Seven of Cups",
+        "suit": "cups",
+        "value": "seven",
+        "image": "/images/cups/tarot-cups-07.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 8,
+        "name": "Eight of Cups",
+        "suit": "cups",
+        "value": "eight",
+        "image": "/images/cups/tarot-cups-08.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 9,
+        "name": "Nine of Cups",
+        "suit": "cups",
+        "value": "nine",
+        "image": "/images/cups/tarot-cups-09.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 10,
+        "name": "Ten of Cups",
+        "suit": "cups",
+        "value": "ten",
+        "image": "/images/cups/tarot-cups-10.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 11,
+        "name": "Page of Cups",
+        "suit": "cups",
+        "value": "page",
+        "image": "/images/cups/tarot-cups-11.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 12,
+        "name": "Knight of Cups",
+        "suit": "cups",
+        "value": "knight",
+        "image": "/images/cups/tarot-cups-12.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 13,
+        "name": "Queen of Cups",
+        "suit": "cups",
+        "value": "queen",
+        "image": "/images/cups/tarot-cups-13.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 14,
+        "name": "King of Cups",
+        "suit": "cups",
+        "value": "king",
+        "image": "/images/cups/tarot-cups-14.jpg",
+        "type": "Minor"
+      }
+    ],
+    "wands": [
+      {
+        "id": 1,
+        "name": "Ace of Wands",
+        "suit": "wands",
+        "value": "ace",
+        "image": "/images/wands/tarot-wands-01.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 2,
+        "name": "Two of Wands",
+        "suit": "wands",
+        "value": "two",
+        "image": "/images/wands/tarot-wands-02.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 3,
+        "name": "Three of Wands",
+        "suit": "wands",
+        "value": "three",
+        "image": "/images/wands/tarot-wands-03.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 4,
+        "name": "Four of Wands",
+        "suit": "wands",
+        "value": "four",
+        "image": "/images/wands/tarot-wands-04.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 5,
+        "name": "Five of Wands",
+        "suit": "wands",
+        "value": "five",
+        "image": "/images/wands/tarot-wands-05.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 6,
+        "name": "Six of Wands",
+        "suit": "wands",
+        "value": "six",
+        "image": "/images/wands/tarot-wands-06.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 7,
+        "name": "Seven of Wands",
+        "suit": "wands",
+        "value": "seven",
+        "image": "/images/wands/tarot-wands-07.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 8,
+        "name": "Eight of Wands",
+        "suit": "wands",
+        "value": "eight",
+        "image": "/images/wands/tarot-wands-08.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 9,
+        "name": "Nine of Wands",
+        "suit": "wands",
+        "value": "nine",
+        "image": "/images/wands/tarot-wands-09.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 10,
+        "name": "Ten of Wands",
+        "suit": "wands",
+        "value": "ten",
+        "image": "/images/wands/tarot-wands-10.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 11,
+        "name": "Page of Wands",
+        "suit": "wands",
+        "value": "page",
+        "image": "/images/wands/tarot-wands-11.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 12,
+        "name": "Knight of Wands",
+        "suit": "wands",
+        "value": "knight",
+        "image": "/images/wands/tarot-wands-12.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 13,
+        "name": "Queen of Wands",
+        "suit": "wands",
+        "value": "queen",
+        "image": "/images/wands/tarot-wands-13.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 14,
+        "name": "King of Wands",
+        "suit": "wands",
+        "value": "king",
+        "image": "/images/wands/tarot-wands-14.jpg",
+        "type": "Minor"
+      }
+    ],
+    "pentacles": [
+      {
+        "id": 1,
+        "name": "Ace of Pentacles",
+        "suit": "pentacles",
+        "value": "ace",
+        "image": "/images/pentacles/tarot-pentacles-01.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 2,
+        "name": "Two of Pentacles",
+        "suit": "pentacles",
+        "value": "two",
+        "image": "/images/pentacles/tarot-pentacles-02.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 3,
+        "name": "Three of Pentacles",
+        "suit": "pentacles",
+        "value": "three",
+        "image": "/images/pentacles/tarot-pentacles-03.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 4,
+        "name": "Four of Pentacles",
+        "suit": "pentacles",
+        "value": "four",
+        "image": "/images/pentacles/tarot-pentacles-04.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 5,
+        "name": "Five of Pentacles",
+        "suit": "pentacles",
+        "value": "five",
+        "image": "/images/pentacles/tarot-pentacles-05.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 6,
+        "name": "Six of Pentacles",
+        "suit": "pentacles",
+        "value": "six",
+        "image": "/images/pentacles/tarot-pentacles-06.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 7,
+        "name": "Seven of Pentacles",
+        "suit": "pentacles",
+        "value": "seven",
+        "image": "/images/pentacles/tarot-pentacles-07.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 8,
+        "name": "Eight of Pentacles",
+        "suit": "pentacles",
+        "value": "eight",
+        "image": "/images/pentacles/tarot-pentacles-08.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 9,
+        "name": "Nine of Pentacles",
+        "suit": "pentacles",
+        "value": "nine",
+        "image": "/images/pentacles/tarot-pentacles-09.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 10,
+        "name": "Ten of Pentacles",
+        "suit": "pentacles",
+        "value": "ten",
+        "image": "/images/pentacles/tarot-pentacles-10.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 11,
+        "name": "Page of Pentacles",
+        "suit": "pentacles",
+        "value": "page",
+        "image": "/images/pentacles/tarot-pentacles-11.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 12,
+        "name": "Knight of Pentacles",
+        "suit": "pentacles",
+        "value": "knight",
+        "image": "/images/pentacles/tarot-pentacles-12.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 13,
+        "name": "Queen of Pentacles",
+        "suit": "pentacles",
+        "value": "queen",
+        "image": "/images/pentacles/tarot-pentacles-13.jpg",
+        "type": "Minor"
+      },
+      {
+        "id": 14,
+        "name": "King of Pentacles",
+        "suit": "pentacles",
+        "value": "king",
+        "image": "/images/pentacles/tarot-pentacles-14.jpg",
+        "type": "Minor"
+      }
+    ]
+  },
+  "majorArcana": [
+    {
+      "id": "00",
+      "name": "The Fool",
+      "suit": "none",
+      "image": "/images/tarot-fool.jpg",
+      "type": "Major"
+    },
+    {
+      "id": "01",
+      "name": "The Magician",
+      "suit": "none",
+      "image": "/images/tarot-magician.jpg",
+      "type": "Major"
+    },
+    {
+      "id": "02",
+      "name": "The High Priestess",
+      "suit": "none",
+      "image": "/images/tarot-highpriestess.jpg",
+      "type": "Major"
+    },
+    {
+      "id": "03",
+      "name": "The Empress",
+      "suit": "none",
+      "image": "/images/tarot-empress.jpg",
+      "type": "Major"
+    },
+    {
+      "id": "04",
+      "name": "The Emperor",
+      "suit": "none",
+      "image": "/images/tarot-emperor.jpg",
+      "type": "Major"
+    },
+    {
+      "id": "05",
+      "name": "The Hierophant",
+      "suit": "none",
+      "image": "/images/tarot-hierophant.jpg",
+      "type": "Major"
+    },
+    {
+      "id": "06",
+      "name": "The Lovers",
+      "suit": "none",
+      "image": "/images/tarot-lovers.jpg",
+      "type": "Major"
+    },
+    {
+      "id": "07",
+      "name": "The Chariot",
+      "suit": "none",
+      "image": "/images/tarot-chariot.jpg",
+      "type": "Major"
+    },
+    {
+      "id": "08",
+      "name": "Strength",
+      "suit": "none",
+      "image": "/images/tarot-strength.jpg",
+      "type": "Major"
+    },
+    {
+      "id": "09",
+      "name": "The Hermit",
+      "suit": "none",
+      "image": "/images/tarot-hermit.jpg",
+      "type": "Major"
+    },
+    {
+      "id": 10,
+      "name": "The Wheel of Fortune",
+      "suit": "none",
+      "image": "/images/tarot-wheeloffortune.jpg",
+      "type": "Major"
+    },
+    {
+      "id": 11,
+      "name": "Justice",
+      "suit": "none",
+      "image": "/images/tarot-justice.jpg",
+      "type": "Major"
+    },
+    {
+      "id": 12,
+      "name": "The Hanged Man",
+      "suit": "none",
+      "image": "/images/tarot-hangedman.jpg",
+      "type": "Major"
+    },
+    {
+      "id": 13,
+      "name": "Death",
+      "suit": "none",
+      "image": "/images/tarot-death.jpg",
+      "type": "Major"
+    },
+    {
+      "id": 14,
+      "name": "Temperance",
+      "suit": "none",
+      "image": "/images/tarot-temperance.jpg",
+      "type": "Major"
+    },
+    {
+      "id": 15,
+      "name": "The Devil",
+      "suit": "none",
+      "image": "/images/tarot-devil.jpg",
+      "type": "Major"
+    },
+    {
+      "id": 16,
+      "name": "The Tower",
+      "suit": "none",
+      "image": "/images/tarot-tower.jpg",
+      "type": "Major"
+    },
+    {
+      "id": 17,
+      "name": "The Star",
+      "suit": "none",
+      "image": "/images/tarot-star.jpg",
+      "type": "Major"
+    },
+    {
+      "id": 18,
+      "name": "The Moon",
+      "suit": "none",
+      "image": "/images/tarot-moon.jpg",
+      "type": "Major"
+    },
+    {
+      "id": 19,
+      "name": "The Sun",
+      "suit": "none",
+      "image": "/images/tarot-sun.jpg",
+      "type": "Major"
+    },
+    {
+      "id": 20,
+      "name": "Judgement",
+      "suit": "none",
+      "image": "/images/tarot-judgement.jpg",
+      "type": "Major"
+    },
+    {
+      "id": 21,
+      "name": "The World",
+      "suit": "none",
+      "image": "/images/tarot-world.jpg",
+      "type": "Major"
+    }
+  ]
+}

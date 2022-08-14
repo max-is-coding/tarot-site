@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tarot Card Study</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,300;1,200&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+    <link rel="icon" href="data:,">
+    <script src="/jquery.min.js"></script>
+  </head>
+  <body>
+    <div class="app">
+      {{>header}}
+      {{>side-bar}}
+      <div class="main-body eighty main-content">
+        <div class="main-content">
+          {{{body}}}
+        </div>
+      </div>
+      {{>footer}}
+    </div>
+    <script src="/tarot.js"></script>
+  </body>
+</html>

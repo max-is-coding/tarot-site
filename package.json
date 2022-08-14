@@ -1,0 +1,15 @@
+{
+  "name": "max-cp02",
+  "version": "1.0.0",
+  "description": "stuff for the NPM trello ticket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "node": "^18.7.0"
+  }
+}
